@@ -1,7 +1,7 @@
 ## I'm iOS app developer
 
 - [Language] Swift, Python, Javascript
-- [📚] UIKit, RxSwift, RxCocoa
+- [📚] UIKit, SwiftUI, RxSwift, RxCocoa
 - [SCM] Git, GitHub, GitLab
 - [Web Service] Firebase, AWSAmplify, AWSAppSync(+GraphQL)
 - [🛠] Xcode, pyCharm, VSC, Sourcetree
